@@ -1,4 +1,4 @@
-AWSTemplateFormatVersion: 2010-09-09 #this is a new change 
+AWSTemplateFormatVersion: 2010-09-09 #this is a new change again 
 Type: AWS::S3::Bucket
 Resources:
   S3Bucket:
